@@ -10,7 +10,7 @@ Get the value from the user
 Assign the values
 ### Step 3: 
 Substitute the values in the distance formula 
-![formula](/formula.jpg)
+(/formula.jpg)
 ### Step 4: 
 print the result
 ### Step 5: 
