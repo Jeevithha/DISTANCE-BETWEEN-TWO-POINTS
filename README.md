@@ -9,7 +9,8 @@ Get the value from the user
 ### Step 2:
 Assign the values
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
+![formula](/formula.jpg)
 ### Step 4: 
 print the result
 ### Step 5: 
@@ -27,6 +28,6 @@ print("{:.2f}".format(distance))
 
 ```
 ### OUTPUT:
-![Screenshot (90)](https://user-images.githubusercontent.com/123623197/227877280-dd6d7942-a120-47a9-a44b-1ad4be8491d1.png)
-
+![Screenshot (99)](https://user-images.githubusercontent.com/123623197/230725179-19878696-3f0e-4fc0-857f-63c1e62e9302.png)
 ### RESULT:
+Thus the distance between the two points is successfully obtained.
