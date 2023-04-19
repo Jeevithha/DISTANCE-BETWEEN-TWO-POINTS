@@ -10,7 +10,7 @@ Get the value from the user
 Assign the values
 ### Step 3: 
 Substitute the values in the distance formula 
-![formula]  (/formula.jpg)
+d = \sqrt{(x_2 - x_1)^2 + (y_2-y_1)^2}
 ### Step 4: 
 print the result
 ### Step 5: 
